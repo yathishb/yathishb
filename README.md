@@ -2,7 +2,7 @@
 - 👀 I’m interested in Automation, CI\CD , DevOps
 - 🌱 I’m currently learning Go Programming
 - 💞️ I’m looking to collaborate on Automation scripts
-- 📫 How to reach me yathish12@outlook.com
+- 📫 How to reach me yathish12@outlook.com, yathishbyadava@gmail.com
 
 <!---
 yathishb/yathishb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
