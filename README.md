@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yathishb
-- 👀 I’m interested in Automation, CI\CD , DevOps
+- 👀 I’m interested in Automation, CI\CD , DevOps , AI
 - 🌱 I’m currently learning Go Programming
 - 💞️ I’m looking to collaborate on Automation scripts
 - 📫 How to reach me yathish12@outlook.com, yathishbyadava@gmail.com
